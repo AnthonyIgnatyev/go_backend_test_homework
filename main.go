@@ -1,4 +1,4 @@
-package main
+git package main
 
 import (
 	"fmt"
@@ -7,6 +7,8 @@ import (
 func Add(a, b int) int {
 	return a + b
 }
+
+//вклинился и изменил
 
 func main() {
 	fmt.Println("Я домашка")
